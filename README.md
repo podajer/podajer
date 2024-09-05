@@ -1,5 +1,5 @@
 # 💫 About Me:
-Dedicated computer engineering technology student at SMAN 2 Batu with a passion for continuous learning and upskilling. Proactive learner who enjoys discovering new technologies and sharing knowledge with others. Proficient in coding with a keen interest in software development and innovation. Enthusiastic about sports, Badminton, fostering teamwork and discipline both on and off the field. Committed to utilizing technical expertise to effectively contribute to the IT industry and make a positive impact on society.
+Dedicated student at SMAN 2 Batu with a passion for continuous learning and upskilling. Proactive learner who enjoys discovering new technologies and sharing knowledge with others. Proficient in coding with a keen interest in software development and innovation. Enthusiastic about sports, Badminton, fostering teamwork and discipline both on and off the field. Committed to utilizing technical expertise to effectively contribute to the IT industry and make a positive impact on society.
 
 
 ## 🌐 Socials:
