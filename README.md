@@ -8,7 +8,6 @@ Student at SMAN 2 Batu with a passion for continuous learning and upskilling. Pr
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Podajer&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Podajer&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Podajer&theme=dark&show_icons=true&hide_border=true&layout=compact)
 
 
 # 💻 Tech Stack:
