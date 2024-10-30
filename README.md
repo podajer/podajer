@@ -1,10 +1,6 @@
 # 💫 About Me:
 Student at SMAN 2 Batu with a passion for continuous learning and upskilling. Proactive learner who enjoys discovering new technologies and sharing knowledge with others. Proficient in coding with a keen interest in software development and innovation. Fostering teamwork and discipline both on and off the field. Committed to utilizing technical expertise to effectively contribute to the IT industry and make a positive impact on society.
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizx19_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Podajer) 
-
 <div align="center">
     <picture>
         <source media="(prefers-color-scheme: dark)" srcset="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
@@ -12,6 +8,9 @@ Student at SMAN 2 Batu with a passion for continuous learning and upskilling. Pr
         <img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/coding.gif" />
      </picture>
 </div>
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rizx19_) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Podajer) 
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Podajer&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
