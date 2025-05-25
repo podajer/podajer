@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at SMAN 2 Batu with a passion for continuous learning and coding. Enjoys discovering new technologies and sharing knowledge. Interested in software development and innovation. Values teamwork and discipline both on and off the field. Committed to making a positive impact in the IT industry and society.
+Tech Enthusiast | Student at SMAN 2 Batu | Passionate about Coding, Innovation, and Collaboration 🤝 | Always Learning, Always Growing 📚💻 | Let's Create Something Amazing Together! 🚀
 
 <div align="center">
     <picture>
