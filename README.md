@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tech Enthusiast | Student at SMAN 2 Batu | Passionate about Coding, Innovation, and Collaboration 🤝 | Always Learning, Always Growing 📚💻 | Let's Create Something Amazing Together! 🚀
+Tech Enthusiast with a passion for coding and innovation. Student at SMAN 2 Batu, always learning and growing with a love for teamwork and problem-solving. Building a brighter future through technology 🚀
 
 <div align="center">
     <picture>
